@@ -2,6 +2,7 @@ import React from 'react'
 import { Switch, Route, Link } from 'react-router-dom'
 import { Layout, Space, Typography } from 'antd'
 import { Navbar } from './components/index'
+import './App.css'
 const App = () => {
   return (
     <div className='app'>
